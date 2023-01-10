@@ -3,7 +3,7 @@
 
 <img src="PacMan1.png">
 
-## Factory for making PacMen
+## Factory for Making PacMen
 
 When button "Add PacMan" is pressed, it calls the function makeOne() that then calls the function makePac() to randomly set the position of the new PacMan image and adds it to the "game" div.  It is then added to the array of PacMen, which keeps track of the position and velocity of each PacMan.
 
