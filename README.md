@@ -1,2 +1,2 @@
-# PacMen-Exercise
-PacMen Factory Exercise from Module 7
+# PacMen Exercise
+## PacMen Factory Exercise from Module 7
