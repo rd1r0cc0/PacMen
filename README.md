@@ -3,20 +3,20 @@
 
 <img src="PacMan1.png">
 
-##Factory for making PacMen
+## Factory for making PacMen
 
 When button "Add PacMan" is pressed, it calls the function makeOne() that then calls the function makePac() to randomly set the position of the new PacMan image and adds it to the "game" div.  It is then added to the array of PacMen, which keeps track of the position and velocity of each PacMan.
 
 When button "Start Game" is pressed, it calls the function update() to make all of the PacMen start moving.  The update() function calls the checkCollisions(item) function to make each PacMan bounce off any wall it hits.
 
 
-##Roadmap of Future Improvements
+## Roadmap of Future Improvements
 
 - Add various sizes of PacMen when 'Add PacMan' is pressed
 - Make each PacMan face in the correct direction when bouncing off the sidewalls
 
 
-##LiCENSE
+## LiCENSE
 
 Copyright (c) 2020
 
