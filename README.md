@@ -16,7 +16,7 @@ When button "Start Game" is pressed, it calls the function update() to make all 
 - Make each PacMan face in the correct direction when bouncing off the sidewalls
 
 
-## LiCENSE
+## LICENSE
 
 Copyright (c) 2020
 
