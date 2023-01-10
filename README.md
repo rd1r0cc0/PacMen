@@ -1,5 +1,5 @@
-# PacMen Exercise
-## PacMen Factory Exercise from Module 7
+# PacMen Factory Exercise from Module 7
+## <a href="https://github.com/rd1r0cc0/PacMen">GitHub Repo for PacMen Factory Exercise</a>
 
 <img src="PacMan1.png">
 
