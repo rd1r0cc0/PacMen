@@ -1,7 +1,7 @@
 # PacMen Factory Exercise from Module 7
 ## <a href="https://github.com/rd1r0cc0/PacMen">GitHub Repo for PacMen Factory Exercise</a>
 
-<img src="PacMan1.png">
+<img src="./images/PacMan1.png">
 
 ## Factory for Making PacMen
 
